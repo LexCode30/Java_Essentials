@@ -1,0 +1,499 @@
+{
+  "name": "Java Essentials",
+  "slug": "Java_Essentials",
+  "url": "https://LexCode30.github.io/Java_Essentials/",
+  "category": "programming",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Getting Started",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Quick Word Before We Begin",
+          "id": "19ur9W2MQQBpbRzZy44W-c2d50RJ_lJy0",
+          "anchor": "v-19ur9W2MQQBpbRzZy44W-c2d50RJ_lJy0",
+          "href": "s1.html#v-19ur9W2MQQBpbRzZy44W-c2d50RJ_lJy0"
+        },
+        {
+          "number": 2,
+          "title": "Primitive and Reference Types differences",
+          "id": "1A1MohAM8HPPhRAlKj_iOpPk9bpcmUEfm",
+          "anchor": "v-1A1MohAM8HPPhRAlKj_iOpPk9bpcmUEfm",
+          "href": "s1.html#v-1A1MohAM8HPPhRAlKj_iOpPk9bpcmUEfm"
+        },
+        {
+          "number": 3,
+          "title": "Pass by value",
+          "id": "19tFJB-pQfJ-VUDwyFpF9AWtORo6PUG8X",
+          "anchor": "v-19tFJB-pQfJ-VUDwyFpF9AWtORo6PUG8X",
+          "href": "s1.html#v-19tFJB-pQfJ-VUDwyFpF9AWtORo6PUG8X"
+        },
+        {
+          "number": 4,
+          "title": "Pass by Reference",
+          "id": "1A5sfLs-aM6rRHmCt3LVgqIFIoprpcJTk",
+          "anchor": "v-1A5sfLs-aM6rRHmCt3LVgqIFIoprpcJTk",
+          "href": "s1.html#v-1A5sfLs-aM6rRHmCt3LVgqIFIoprpcJTk"
+        },
+        {
+          "number": 5,
+          "title": "Var Keyword",
+          "id": "19sOu0liq0dE4KBG-Rq2WD1o5IxRjXhlQ",
+          "anchor": "v-19sOu0liq0dE4KBG-Rq2WD1o5IxRjXhlQ",
+          "href": "s1.html#v-19sOu0liq0dE4KBG-Rq2WD1o5IxRjXhlQ"
+        },
+        {
+          "number": 6,
+          "title": "Final Keyword",
+          "id": "1A04y9qLDvC8RaQabH2ERnQ8PTXRbDhsn",
+          "anchor": "v-1A04y9qLDvC8RaQabH2ERnQ8PTXRbDhsn",
+          "href": "s1.html#v-1A04y9qLDvC8RaQabH2ERnQ8PTXRbDhsn"
+        },
+        {
+          "number": 7,
+          "title": "Access Modifiers",
+          "id": "1A0VPz-usQ5pbzi3hACeq0SJkGf5IbrHa",
+          "anchor": "v-1A0VPz-usQ5pbzi3hACeq0SJkGf5IbrHa",
+          "href": "s1.html#v-1A0VPz-usQ5pbzi3hACeq0SJkGf5IbrHa"
+        },
+        {
+          "number": 8,
+          "title": "Methods",
+          "id": "1A4YeuD_yJ64PA4tAyFI_ilcWt_0cDFo7",
+          "anchor": "v-1A4YeuD_yJ64PA4tAyFI_ilcWt_0cDFo7",
+          "href": "s1.html#v-1A4YeuD_yJ64PA4tAyFI_ilcWt_0cDFo7"
+        },
+        {
+          "number": 9,
+          "title": "Object class",
+          "id": "1AIayT2t1iyvrJ1lNgXrGz2lutOq3W595",
+          "anchor": "v-1AIayT2t1iyvrJ1lNgXrGz2lutOq3W595",
+          "href": "s1.html#v-1AIayT2t1iyvrJ1lNgXrGz2lutOq3W595"
+        },
+        {
+          "number": 10,
+          "title": "Primitives and Wrapper classes",
+          "id": "1AB1xogH5GvX_nkmqz5S1jhQMjh3t_Mp7",
+          "anchor": "v-1AB1xogH5GvX_nkmqz5S1jhQMjh3t_Mp7",
+          "href": "s1.html#v-1AB1xogH5GvX_nkmqz5S1jhQMjh3t_Mp7"
+        },
+        {
+          "number": 11,
+          "title": "Static Keyword",
+          "id": "19zt-pGhCepW3MnYvUqc5l_xHCgiAVLwQ",
+          "anchor": "v-19zt-pGhCepW3MnYvUqc5l_xHCgiAVLwQ",
+          "href": "s1.html#v-19zt-pGhCepW3MnYvUqc5l_xHCgiAVLwQ"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Classes and Objects",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What are classes",
+          "id": "1AZMmf5Gc7m6ieJZo-H7OiNtOhEnOvDa0",
+          "anchor": "v-1AZMmf5Gc7m6ieJZo-H7OiNtOhEnOvDa0",
+          "href": "s2.html#v-1AZMmf5Gc7m6ieJZo-H7OiNtOhEnOvDa0"
+        },
+        {
+          "number": 2,
+          "title": "Classes",
+          "id": "1AObMlDcYij2Vyo04AZMz3gvAyBtTerot",
+          "anchor": "v-1AObMlDcYij2Vyo04AZMz3gvAyBtTerot",
+          "href": "s2.html#v-1AObMlDcYij2Vyo04AZMz3gvAyBtTerot"
+        },
+        {
+          "number": 3,
+          "title": "Classes and Behaviours",
+          "id": "1AF2kNPOG13UxI16Le0NSxsTdZNDRsIpL",
+          "anchor": "v-1AF2kNPOG13UxI16Le0NSxsTdZNDRsIpL",
+          "href": "s2.html#v-1AF2kNPOG13UxI16Le0NSxsTdZNDRsIpL"
+        },
+        {
+          "number": 4,
+          "title": "Creating Objects",
+          "id": "1AXWzmWOvcn5WYixtItSDDQbiomY4RevJ",
+          "anchor": "v-1AXWzmWOvcn5WYixtItSDDQbiomY4RevJ",
+          "href": "s2.html#v-1AXWzmWOvcn5WYixtItSDDQbiomY4RevJ"
+        },
+        {
+          "number": 5,
+          "title": "Constructors",
+          "id": "1ASoHa7Av7gT5ESS0GJlpW-1U3zU8J7sw",
+          "anchor": "v-1ASoHa7Av7gT5ESS0GJlpW-1U3zU8J7sw",
+          "href": "s2.html#v-1ASoHa7Av7gT5ESS0GJlpW-1U3zU8J7sw"
+        },
+        {
+          "number": 6,
+          "title": "The this keyword in constructors",
+          "id": "1AUm7DRuqrV61iJSS5-9D7LN8n42z3NKv",
+          "anchor": "v-1AUm7DRuqrV61iJSS5-9D7LN8n42z3NKv",
+          "href": "s2.html#v-1AUm7DRuqrV61iJSS5-9D7LN8n42z3NKv"
+        },
+        {
+          "number": 7,
+          "title": "toString",
+          "id": "1ANrIR23oSpxvWBctOIuZupfyfq76YNAT",
+          "anchor": "v-1ANrIR23oSpxvWBctOIuZupfyfq76YNAT",
+          "href": "s2.html#v-1ANrIR23oSpxvWBctOIuZupfyfq76YNAT"
+        },
+        {
+          "number": 8,
+          "title": "Enums",
+          "id": "1ALdUnPWibvByjUtpVeJC4kg0WtuUkxoD",
+          "anchor": "v-1ALdUnPWibvByjUtpVeJC4kg0WtuUkxoD",
+          "href": "s2.html#v-1ALdUnPWibvByjUtpVeJC4kg0WtuUkxoD"
+        },
+        {
+          "number": 9,
+          "title": "Classes and Objects recap",
+          "id": "1APhYzORYbxuFzrqNDxg_ftjD8Q14rFRo",
+          "anchor": "v-1APhYzORYbxuFzrqNDxg_ftjD8Q14rFRo",
+          "href": "s2.html#v-1APhYzORYbxuFzrqNDxg_ftjD8Q14rFRo"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Object Oriented Programming Concepts",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Object Oriented Programming OOP",
+          "id": "18oCmVbF6dPJaOTzhFkOLxLqfLwDCA3yx",
+          "anchor": "v-18oCmVbF6dPJaOTzhFkOLxLqfLwDCA3yx",
+          "href": "s3.html#v-18oCmVbF6dPJaOTzhFkOLxLqfLwDCA3yx"
+        },
+        {
+          "number": 2,
+          "title": "Encapsulation",
+          "id": "18iRumOz0mX7pIFH5FCfBhhXDu5Ni29Y0",
+          "anchor": "v-18iRumOz0mX7pIFH5FCfBhhXDu5Ni29Y0",
+          "href": "s3.html#v-18iRumOz0mX7pIFH5FCfBhhXDu5Ni29Y0"
+        },
+        {
+          "number": 3,
+          "title": "Inheritance",
+          "id": "18qIN5_maK-q8NzutOlW0zubenQHBUhi6",
+          "anchor": "v-18qIN5_maK-q8NzutOlW0zubenQHBUhi6",
+          "href": "s3.html#v-18qIN5_maK-q8NzutOlW0zubenQHBUhi6"
+        },
+        {
+          "number": 4,
+          "title": "Abstraction",
+          "id": "18hyko5NXybnL6Mz8PKNOqcg2KGBFc0Dn",
+          "anchor": "v-18hyko5NXybnL6Mz8PKNOqcg2KGBFc0Dn",
+          "href": "s3.html#v-18hyko5NXybnL6Mz8PKNOqcg2KGBFc0Dn"
+        },
+        {
+          "number": 5,
+          "title": "Polymosphism",
+          "id": "18_C0Wk-2q5RZ6nRP1GI__O-GbNAec8gr",
+          "anchor": "v-18_C0Wk-2q5RZ6nRP1GI__O-GbNAec8gr",
+          "href": "s3.html#v-18_C0Wk-2q5RZ6nRP1GI__O-GbNAec8gr"
+        },
+        {
+          "number": 6,
+          "title": "Interfaces",
+          "id": "18_LMpOhYPgGMifc15DfUSOzFbKvOadV1",
+          "anchor": "v-18_LMpOhYPgGMifc15DfUSOzFbKvOadV1",
+          "href": "s3.html#v-18_LMpOhYPgGMifc15DfUSOzFbKvOadV1"
+        },
+        {
+          "number": 7,
+          "title": "Method Overloading",
+          "id": "18p3NxiWDqbvYciOuOTrVKusnm741rblD",
+          "anchor": "v-18p3NxiWDqbvYciOuOTrVKusnm741rblD",
+          "href": "s3.html#v-18p3NxiWDqbvYciOuOTrVKusnm741rblD"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Data Structures",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Intro to Data Structures",
+          "id": "19NFHx4wXEA2BHYzadQhQ-n0WrYoHu5WF",
+          "anchor": "v-19NFHx4wXEA2BHYzadQhQ-n0WrYoHu5WF",
+          "href": "s4.html#v-19NFHx4wXEA2BHYzadQhQ-n0WrYoHu5WF"
+        },
+        {
+          "number": 2,
+          "title": "Arrays",
+          "id": "18sgKGFHCOdAtxB1wh1u8JkmpyBDggMtj",
+          "anchor": "v-18sgKGFHCOdAtxB1wh1u8JkmpyBDggMtj",
+          "href": "s4.html#v-18sgKGFHCOdAtxB1wh1u8JkmpyBDggMtj"
+        },
+        {
+          "number": 3,
+          "title": "Working with Arrays",
+          "id": "19gljIJXrooivY7RtcmeMGiQcIiyipX_S",
+          "anchor": "v-19gljIJXrooivY7RtcmeMGiQcIiyipX_S",
+          "href": "s4.html#v-19gljIJXrooivY7RtcmeMGiQcIiyipX_S"
+        },
+        {
+          "number": 4,
+          "title": "Lists",
+          "id": "18w5dLuQGR1cWN-eH4cgSLp2dNd-OXhPa",
+          "anchor": "v-18w5dLuQGR1cWN-eH4cgSLp2dNd-OXhPa",
+          "href": "s4.html#v-18w5dLuQGR1cWN-eH4cgSLp2dNd-OXhPa"
+        },
+        {
+          "number": 5,
+          "title": "Working with Lists",
+          "id": "18yvt1i_2XcqT_mweXI41smjQURsCFyQi",
+          "anchor": "v-18yvt1i_2XcqT_mweXI41smjQURsCFyQi",
+          "href": "s4.html#v-18yvt1i_2XcqT_mweXI41smjQURsCFyQi"
+        },
+        {
+          "number": 6,
+          "title": "Exploring the List api",
+          "id": "19-ZPn26XcfjS_GzaKv6tkUr8r8PJQYAG",
+          "anchor": "v-19-ZPn26XcfjS_GzaKv6tkUr8r8PJQYAG",
+          "href": "s4.html#v-19-ZPn26XcfjS_GzaKv6tkUr8r8PJQYAG"
+        },
+        {
+          "number": 7,
+          "title": "Generics",
+          "id": "19m9Veh37RqQpPEl3i6Z0rOhvJD6Xw59j",
+          "anchor": "v-19m9Veh37RqQpPEl3i6Z0rOhvJD6Xw59j",
+          "href": "s4.html#v-19m9Veh37RqQpPEl3i6Z0rOhvJD6Xw59j"
+        },
+        {
+          "number": 8,
+          "title": "Sets",
+          "id": "199HfGxPhJT8Q-Adj-vOHm2PnojqYd0Op",
+          "anchor": "v-199HfGxPhJT8Q-Adj-vOHm2PnojqYd0Op",
+          "href": "s4.html#v-199HfGxPhJT8Q-Adj-vOHm2PnojqYd0Op"
+        },
+        {
+          "number": 9,
+          "title": "Maps",
+          "id": "19Fi1--FI-Dy1r8eMhcWvnqUSKckWaAQT",
+          "anchor": "v-19Fi1--FI-Dy1r8eMhcWvnqUSKckWaAQT",
+          "href": "s4.html#v-19Fi1--FI-Dy1r8eMhcWvnqUSKckWaAQT"
+        },
+        {
+          "number": 10,
+          "title": "Stacks",
+          "id": "18vceo3crHVKBXjJ01Yql92nN2324LBVC",
+          "anchor": "v-18vceo3crHVKBXjJ01Yql92nN2324LBVC",
+          "href": "s4.html#v-18vceo3crHVKBXjJ01Yql92nN2324LBVC"
+        },
+        {
+          "number": 11,
+          "title": "Working with Stacks",
+          "id": "19Zu8dvPQUZTuxr_aeCiQrKFNT0nzcPae",
+          "anchor": "v-19Zu8dvPQUZTuxr_aeCiQrKFNT0nzcPae",
+          "href": "s4.html#v-19Zu8dvPQUZTuxr_aeCiQrKFNT0nzcPae"
+        },
+        {
+          "number": 12,
+          "title": "Queues",
+          "id": "19VoP-g8uGVWNv0-JYO29Ix93-d6GvMUF",
+          "anchor": "v-19VoP-g8uGVWNv0-JYO29Ix93-d6GvMUF",
+          "href": "s4.html#v-19VoP-g8uGVWNv0-JYO29Ix93-d6GvMUF"
+        },
+        {
+          "number": 13,
+          "title": "Working with Queues",
+          "id": "19BG0aQyrvOOoDYufAjzaRr14NwLBBwo4",
+          "anchor": "v-19BG0aQyrvOOoDYufAjzaRr14NwLBBwo4",
+          "href": "s4.html#v-19BG0aQyrvOOoDYufAjzaRr14NwLBBwo4"
+        },
+        {
+          "number": 14,
+          "title": "Final Say On Data Structures",
+          "id": "19OxO62CYJqFJA2-yt454aViY4N4IHOC9",
+          "anchor": "v-19OxO62CYJqFJA2-yt454aViY4N4IHOC9",
+          "href": "s4.html#v-19OxO62CYJqFJA2-yt454aViY4N4IHOC9"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Date and Time",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Intro to Available Date classes",
+          "id": "1AxiuPJOFP-WkCcnJ1KdAiotyxtyefpu9",
+          "anchor": "v-1AxiuPJOFP-WkCcnJ1KdAiotyxtyefpu9",
+          "href": "s5.html#v-1AxiuPJOFP-WkCcnJ1KdAiotyxtyefpu9"
+        },
+        {
+          "number": 2,
+          "title": "Available Zones",
+          "id": "1ApgYAI6KP-niSRjI_BPlIs5zMjTkrcxY",
+          "anchor": "v-1ApgYAI6KP-niSRjI_BPlIs5zMjTkrcxY",
+          "href": "s5.html#v-1ApgYAI6KP-niSRjI_BPlIs5zMjTkrcxY"
+        },
+        {
+          "number": 3,
+          "title": "Exploring Date available methods",
+          "id": "1AsIRIBTtpXYZTwrbjM26aBpfVoKLDGL6",
+          "anchor": "v-1AsIRIBTtpXYZTwrbjM26aBpfVoKLDGL6",
+          "href": "s5.html#v-1AsIRIBTtpXYZTwrbjM26aBpfVoKLDGL6"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Dealing with Money",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "The problem with double and Double",
+          "id": "1A_OF4zpxv5-UX_CI77qmvGI-xAh0Cmhe",
+          "anchor": "v-1A_OF4zpxv5-UX_CI77qmvGI-xAh0Cmhe",
+          "href": "s6.html#v-1A_OF4zpxv5-UX_CI77qmvGI-xAh0Cmhe"
+        },
+        {
+          "number": 2,
+          "title": "The Big Decimal class",
+          "id": "1AbA-tpLN9DPj3zPWHZD0ciz1DSVENjEj",
+          "anchor": "v-1AbA-tpLN9DPj3zPWHZD0ciz1DSVENjEj",
+          "href": "s6.html#v-1AbA-tpLN9DPj3zPWHZD0ciz1DSVENjEj"
+        },
+        {
+          "number": 3,
+          "title": "Comparing BigDecimals",
+          "id": "1AeiSIGPYKpnAtoRx8zpG8z-OiAGZvfoO",
+          "anchor": "v-1AeiSIGPYKpnAtoRx8zpG8z-OiAGZvfoO",
+          "href": "s6.html#v-1AeiSIGPYKpnAtoRx8zpG8z-OiAGZvfoO"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Nulls and Optionals",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "The Null value",
+          "id": "1AgOoUu_mX14E-A3sv_T8P4ZNyPy14PIS",
+          "anchor": "v-1AgOoUu_mX14E-A3sv_T8P4ZNyPy14PIS",
+          "href": "s7.html#v-1AgOoUu_mX14E-A3sv_T8P4ZNyPy14PIS"
+        },
+        {
+          "number": 2,
+          "title": "Handling Null Values",
+          "id": "1A_CqvMHzRzyLZvai6VI7-hrxY_5dDcuu",
+          "anchor": "v-1A_CqvMHzRzyLZvai6VI7-hrxY_5dDcuu",
+          "href": "s7.html#v-1A_CqvMHzRzyLZvai6VI7-hrxY_5dDcuu"
+        },
+        {
+          "number": 3,
+          "title": "Intro to Optional",
+          "id": "1AdPIzMbt-bJwF1884xvT6FS7iMrA7K6i",
+          "anchor": "v-1AdPIzMbt-bJwF1884xvT6FS7iMrA7K6i",
+          "href": "s7.html#v-1AdPIzMbt-bJwF1884xvT6FS7iMrA7K6i"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Exceptions",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Intro to Exceptions",
+          "id": "1BJHN3p1J72lx5Zomqxw9KSFMADVcxz09",
+          "anchor": "v-1BJHN3p1J72lx5Zomqxw9KSFMADVcxz09",
+          "href": "s8.html#v-1BJHN3p1J72lx5Zomqxw9KSFMADVcxz09"
+        },
+        {
+          "number": 2,
+          "title": "Checked Exception",
+          "id": "1B8A5BpSaV_UhcnCh9mCz2ibWmpqw8JMx",
+          "anchor": "v-1B8A5BpSaV_UhcnCh9mCz2ibWmpqw8JMx",
+          "href": "s8.html#v-1B8A5BpSaV_UhcnCh9mCz2ibWmpqw8JMx"
+        },
+        {
+          "number": 3,
+          "title": "Unchecked Exceptions",
+          "id": "1BJSHkuP0Tmksmo-mOcRH4YkiuOqbwRTU",
+          "anchor": "v-1BJSHkuP0Tmksmo-mOcRH4YkiuOqbwRTU",
+          "href": "s8.html#v-1BJSHkuP0Tmksmo-mOcRH4YkiuOqbwRTU"
+        },
+        {
+          "number": 4,
+          "title": "Try Catch and Finally",
+          "id": "1B1loPwy1T9aE_15CKSzJLUi2uFGPy-FP",
+          "anchor": "v-1B1loPwy1T9aE_15CKSzJLUi2uFGPy-FP",
+          "href": "s8.html#v-1B1loPwy1T9aE_15CKSzJLUi2uFGPy-FP"
+        },
+        {
+          "number": 5,
+          "title": "Custom Exceptions",
+          "id": "1B5csBqFT7zmIDsY-kQ20kGgQQ0HSV3HV",
+          "anchor": "v-1B5csBqFT7zmIDsY-kQ20kGgQQ0HSV3HV",
+          "href": "s8.html#v-1B5csBqFT7zmIDsY-kQ20kGgQQ0HSV3HV"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Working with Files",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Creating files",
+          "id": "1B0x0zZRjQk0cCZ7_CU-OLdR0wz-j0qPU",
+          "anchor": "v-1B0x0zZRjQk0cCZ7_CU-OLdR0wz-j0qPU",
+          "href": "s9.html#v-1B0x0zZRjQk0cCZ7_CU-OLdR0wz-j0qPU"
+        },
+        {
+          "number": 2,
+          "title": "Writing to files using PrintWriter",
+          "id": "1Adt4_6jEov2i5EJ4NVxPthTupFrNqg6e",
+          "anchor": "v-1Adt4_6jEov2i5EJ4NVxPthTupFrNqg6e",
+          "href": "s9.html#v-1Adt4_6jEov2i5EJ4NVxPthTupFrNqg6e"
+        },
+        {
+          "number": 3,
+          "title": "Reading Files",
+          "id": "1Add41c1dA-bpikucmkBcRAdZ0OpZuIGd",
+          "anchor": "v-1Add41c1dA-bpikucmkBcRAdZ0OpZuIGd",
+          "href": "s9.html#v-1Add41c1dA-bpikucmkBcRAdZ0OpZuIGd"
+        },
+        {
+          "number": 4,
+          "title": "Parsing files",
+          "id": "1B1f_ob_kgWu7xITTDiACnL17uTOTv_8E",
+          "anchor": "v-1B1f_ob_kgWu7xITTDiACnL17uTOTv_8E",
+          "href": "s9.html#v-1B1f_ob_kgWu7xITTDiACnL17uTOTv_8E"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Next steps",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Lets Wrap Up and Next Steps",
+          "id": "19gyKMqbwapGTnX-y7rc9mwaPLQ_b6zwa",
+          "anchor": "v-19gyKMqbwapGTnX-y7rc9mwaPLQ_b6zwa",
+          "href": "s10.html#v-19gyKMqbwapGTnX-y7rc9mwaPLQ_b6zwa"
+        }
+      ]
+    }
+  ]
+}

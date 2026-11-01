@@ -1,0 +1,81 @@
+# Java Essentials
+
+1. Getting Started  [s1.html]
+    001. Quick Word Before We Begin  ->  https://drive.google.com/file/d/19ur9W2MQQBpbRzZy44W-c2d50RJ_lJy0/preview
+    002. Primitive and Reference Types differences  ->  https://drive.google.com/file/d/1A1MohAM8HPPhRAlKj_iOpPk9bpcmUEfm/preview
+    003. Pass by value  ->  https://drive.google.com/file/d/19tFJB-pQfJ-VUDwyFpF9AWtORo6PUG8X/preview
+    004. Pass by Reference  ->  https://drive.google.com/file/d/1A5sfLs-aM6rRHmCt3LVgqIFIoprpcJTk/preview
+    005. Var Keyword  ->  https://drive.google.com/file/d/19sOu0liq0dE4KBG-Rq2WD1o5IxRjXhlQ/preview
+    006. Final Keyword  ->  https://drive.google.com/file/d/1A04y9qLDvC8RaQabH2ERnQ8PTXRbDhsn/preview
+    007. Access Modifiers  ->  https://drive.google.com/file/d/1A0VPz-usQ5pbzi3hACeq0SJkGf5IbrHa/preview
+    008. Methods  ->  https://drive.google.com/file/d/1A4YeuD_yJ64PA4tAyFI_ilcWt_0cDFo7/preview
+    009. Object class  ->  https://drive.google.com/file/d/1AIayT2t1iyvrJ1lNgXrGz2lutOq3W595/preview
+    010. Primitives and Wrapper classes  ->  https://drive.google.com/file/d/1AB1xogH5GvX_nkmqz5S1jhQMjh3t_Mp7/preview
+    011. Static Keyword  ->  https://drive.google.com/file/d/19zt-pGhCepW3MnYvUqc5l_xHCgiAVLwQ/preview
+
+2. Classes and Objects  [s2.html]
+    001. What are classes  ->  https://drive.google.com/file/d/1AZMmf5Gc7m6ieJZo-H7OiNtOhEnOvDa0/preview
+    002. Classes  ->  https://drive.google.com/file/d/1AObMlDcYij2Vyo04AZMz3gvAyBtTerot/preview
+    003. Classes and Behaviours  ->  https://drive.google.com/file/d/1AF2kNPOG13UxI16Le0NSxsTdZNDRsIpL/preview
+    004. Creating Objects  ->  https://drive.google.com/file/d/1AXWzmWOvcn5WYixtItSDDQbiomY4RevJ/preview
+    005. Constructors  ->  https://drive.google.com/file/d/1ASoHa7Av7gT5ESS0GJlpW-1U3zU8J7sw/preview
+    006. The this keyword in constructors  ->  https://drive.google.com/file/d/1AUm7DRuqrV61iJSS5-9D7LN8n42z3NKv/preview
+    007. toString  ->  https://drive.google.com/file/d/1ANrIR23oSpxvWBctOIuZupfyfq76YNAT/preview
+    008. Enums  ->  https://drive.google.com/file/d/1ALdUnPWibvByjUtpVeJC4kg0WtuUkxoD/preview
+    009. Classes and Objects recap  ->  https://drive.google.com/file/d/1APhYzORYbxuFzrqNDxg_ftjD8Q14rFRo/preview
+
+3. Object Oriented Programming Concepts  [s3.html]
+    001. Object Oriented Programming OOP  ->  https://drive.google.com/file/d/18oCmVbF6dPJaOTzhFkOLxLqfLwDCA3yx/preview
+    002. Encapsulation  ->  https://drive.google.com/file/d/18iRumOz0mX7pIFH5FCfBhhXDu5Ni29Y0/preview
+    003. Inheritance  ->  https://drive.google.com/file/d/18qIN5_maK-q8NzutOlW0zubenQHBUhi6/preview
+    004. Abstraction  ->  https://drive.google.com/file/d/18hyko5NXybnL6Mz8PKNOqcg2KGBFc0Dn/preview
+    005. Polymosphism  ->  https://drive.google.com/file/d/18_C0Wk-2q5RZ6nRP1GI__O-GbNAec8gr/preview
+    006. Interfaces  ->  https://drive.google.com/file/d/18_LMpOhYPgGMifc15DfUSOzFbKvOadV1/preview
+    007. Method Overloading  ->  https://drive.google.com/file/d/18p3NxiWDqbvYciOuOTrVKusnm741rblD/preview
+
+4. Data Structures  [s4.html]
+    001. Intro to Data Structures  ->  https://drive.google.com/file/d/19NFHx4wXEA2BHYzadQhQ-n0WrYoHu5WF/preview
+    002. Arrays  ->  https://drive.google.com/file/d/18sgKGFHCOdAtxB1wh1u8JkmpyBDggMtj/preview
+    003. Working with Arrays  ->  https://drive.google.com/file/d/19gljIJXrooivY7RtcmeMGiQcIiyipX_S/preview
+    004. Lists  ->  https://drive.google.com/file/d/18w5dLuQGR1cWN-eH4cgSLp2dNd-OXhPa/preview
+    005. Working with Lists  ->  https://drive.google.com/file/d/18yvt1i_2XcqT_mweXI41smjQURsCFyQi/preview
+    006. Exploring the List api  ->  https://drive.google.com/file/d/19-ZPn26XcfjS_GzaKv6tkUr8r8PJQYAG/preview
+    007. Generics  ->  https://drive.google.com/file/d/19m9Veh37RqQpPEl3i6Z0rOhvJD6Xw59j/preview
+    008. Sets  ->  https://drive.google.com/file/d/199HfGxPhJT8Q-Adj-vOHm2PnojqYd0Op/preview
+    009. Maps  ->  https://drive.google.com/file/d/19Fi1--FI-Dy1r8eMhcWvnqUSKckWaAQT/preview
+    010. Stacks  ->  https://drive.google.com/file/d/18vceo3crHVKBXjJ01Yql92nN2324LBVC/preview
+    011. Working with Stacks  ->  https://drive.google.com/file/d/19Zu8dvPQUZTuxr_aeCiQrKFNT0nzcPae/preview
+    012. Queues  ->  https://drive.google.com/file/d/19VoP-g8uGVWNv0-JYO29Ix93-d6GvMUF/preview
+    013. Working with Queues  ->  https://drive.google.com/file/d/19BG0aQyrvOOoDYufAjzaRr14NwLBBwo4/preview
+    014. Final Say On Data Structures  ->  https://drive.google.com/file/d/19OxO62CYJqFJA2-yt454aViY4N4IHOC9/preview
+
+5. Date and Time  [s5.html]
+    001. Intro to Available Date classes  ->  https://drive.google.com/file/d/1AxiuPJOFP-WkCcnJ1KdAiotyxtyefpu9/preview
+    002. Available Zones  ->  https://drive.google.com/file/d/1ApgYAI6KP-niSRjI_BPlIs5zMjTkrcxY/preview
+    003. Exploring Date available methods  ->  https://drive.google.com/file/d/1AsIRIBTtpXYZTwrbjM26aBpfVoKLDGL6/preview
+
+6. Dealing with Money  [s6.html]
+    001. The problem with double and Double  ->  https://drive.google.com/file/d/1A_OF4zpxv5-UX_CI77qmvGI-xAh0Cmhe/preview
+    002. The Big Decimal class  ->  https://drive.google.com/file/d/1AbA-tpLN9DPj3zPWHZD0ciz1DSVENjEj/preview
+    003. Comparing BigDecimals  ->  https://drive.google.com/file/d/1AeiSIGPYKpnAtoRx8zpG8z-OiAGZvfoO/preview
+
+7. Nulls and Optionals  [s7.html]
+    001. The Null value  ->  https://drive.google.com/file/d/1AgOoUu_mX14E-A3sv_T8P4ZNyPy14PIS/preview
+    002. Handling Null Values  ->  https://drive.google.com/file/d/1A_CqvMHzRzyLZvai6VI7-hrxY_5dDcuu/preview
+    003. Intro to Optional  ->  https://drive.google.com/file/d/1AdPIzMbt-bJwF1884xvT6FS7iMrA7K6i/preview
+
+8. Exceptions  [s8.html]
+    001. Intro to Exceptions  ->  https://drive.google.com/file/d/1BJHN3p1J72lx5Zomqxw9KSFMADVcxz09/preview
+    002. Checked Exception  ->  https://drive.google.com/file/d/1B8A5BpSaV_UhcnCh9mCz2ibWmpqw8JMx/preview
+    003. Unchecked Exceptions  ->  https://drive.google.com/file/d/1BJSHkuP0Tmksmo-mOcRH4YkiuOqbwRTU/preview
+    004. Try Catch and Finally  ->  https://drive.google.com/file/d/1B1loPwy1T9aE_15CKSzJLUi2uFGPy-FP/preview
+    005. Custom Exceptions  ->  https://drive.google.com/file/d/1B5csBqFT7zmIDsY-kQ20kGgQQ0HSV3HV/preview
+
+9. Working with Files  [s9.html]
+    001. Creating files  ->  https://drive.google.com/file/d/1B0x0zZRjQk0cCZ7_CU-OLdR0wz-j0qPU/preview
+    002. Writing to files using PrintWriter  ->  https://drive.google.com/file/d/1Adt4_6jEov2i5EJ4NVxPthTupFrNqg6e/preview
+    003. Reading Files  ->  https://drive.google.com/file/d/1Add41c1dA-bpikucmkBcRAdZ0OpZuIGd/preview
+    004. Parsing files  ->  https://drive.google.com/file/d/1B1f_ob_kgWu7xITTDiACnL17uTOTv_8E/preview
+
+10. Next steps  [s10.html]
+    001. Lets Wrap Up and Next Steps  ->  https://drive.google.com/file/d/19gyKMqbwapGTnX-y7rc9mwaPLQ_b6zwa/preview
